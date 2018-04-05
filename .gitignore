@@ -1,0 +1,17 @@
+.idea
+.DS_Store
+*.iml
+node_modules
+src/index.html
+spec/templates.js
+spec/app.js
+spec/vendor.js
+build
+gitversion.txt
+coverage
+/coverage/
+logs
+*.log
+/dist
+config.js
+mock_backend/node_modules
